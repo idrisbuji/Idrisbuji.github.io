@@ -1,0 +1,73 @@
+<style>
+      h1{
+        color:navy;
+        text-align: center;
+      }
+      h2{
+        color:navy;
+        text-align: center;
+      }
+     body {
+        background-color:lightblue;
+       font-family: Arial,sans-serif;
+      }
+      img{
+        width: 180px;
+        height: 180px;
+        border-radius:100%;
+        display: block;
+        margin: auto;
+        border:2px solid darkblue;
+      }
+      p {
+        color:darkblue;
+        font-size: 18px;
+      }
+      form {
+         margin: 50px;
+        color:darkblue;
+      }
+      button{
+        color:darkblue;
+        text-align: center;
+      }
+      .myform{
+       background-color:whitesmoke;
+        padding: 25px;
+        margin:20px ;
+        border-radius:15px;
+        border:2px solid darkblue;
+      }
+.myform label {
+    display: block;
+    margin-top: 15px;
+    font-size: 18px;
+    color: darkblue;
+}
+
+.myform input {
+    width: 90%;
+    padding: 12px;
+    margin-top: 8px;
+    border: 1px solid blue;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+.myform button {
+    background-color: blue;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+    button:hover{
+      background-color:darkred;
+      cursor: pointer;
+      transition: 0.05s;
+    }
+    
+      </style>
+      
